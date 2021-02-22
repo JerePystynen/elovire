@@ -1,0 +1,16 @@
+[
+    {
+        "en":{
+            "hi":"Welcome Everyone",
+            "bye":"Goodbye!"
+        },
+        "fi":{
+            "hi":"Tervetuloa Kaikki!",
+            "bye":"Nähdään!"
+        },
+        "ru":{
+            "hi":"",
+            "bye":""
+        }
+    }
+]

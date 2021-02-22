@@ -1,0 +1,14 @@
+
+Esimerkiksi.
+
+[9.2.2021]
+
+Päivälle Sallittu: 14.00-22.00
+
+Mikko on varannut ajan klo. 16.30-18.00
+silloin, vapaana ovat ajat:
+14.00-16.30; 18.00-22.00
+
+mutta, koska tapaamisilla on 30 minuuttia armonaikaa joka tapaamisen jälkeen (vaihdettavissa moderaattorin sivuilta)
+ajat ovat:
+14.00-16.30; 18.30-22.00
